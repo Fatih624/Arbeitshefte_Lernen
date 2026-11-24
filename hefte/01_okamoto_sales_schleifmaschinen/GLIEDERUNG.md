@@ -1,6 +1,6 @@
 # Gliederung – Heft 01: Sales Manager Schleifmaschinen (Okamoto)
 
-> Status: **freigegeben am 24.11.2026** · Teil A fertig (PDF) · Umfang ca. 78 Seiten · Zeitplan 24.11.2026 bis 31.03.2027
+> Status: **freigegeben am 24.11.2026** · Teil A und B fertig (PDF) · Umfang ca. 78 Seiten · Zeitplan 24.11.2026 bis 31.03.2027
 
 ## Leitidee
 Du kommst aus dem Werkzeug-Vertrieb (Diamant/CBN), du kennst also die **Schleifscheibe**. Das Heft baut von dort aus die **Maschine** drumherum auf, danach den **Markt** und am Ende den **Vertriebsalltag** für Investitionsgüter.

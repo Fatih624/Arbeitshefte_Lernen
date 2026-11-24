@@ -33,3 +33,29 @@ Stand 24.11.2026. Wird beim Schreiben der Kapitel ergänzt.
 - Werkstatt + Betrieb: CBN, Schnittgeschwindigkeiten bis 125 m/s – siehe WB 01/2020 „Leistung bis ans Limit“
 - Machineseeker: ACC-84CA-iQ (7,5 kW, 500–2500 1/min, Klappabrichter mit Kompensation), ACC-64GX (600 × 400 mm, Scheibe 355 × 50 × 127)
 - Allgemeines Lehrbuchwissen: ISO 286 (IT-Werte), Ra/Rz, ISO 525 Scheibenbezeichnung, FEPA-Körnung, α Stahl/Guss
+
+## Teil B – Okamoto, Wettbewerb, Gebiet
+- Stockanalysis: Okamoto TYO:6125 – gegründet 1926, Annaka, Mitarbeiter – https://stockanalysis.com/quote/tyo/6125/company · https://stockanalysis.com/quote/tyo/6125/employees
+- Stockopedia: Incorporated 10.06.1935 – https://stockopedia.com/share-prices/yamaha-motor-co-TYO:6125
+- Statista: Tochtergesellschaften Deutschland, Singapur, Thailand, USA – https://statista.com/statistics/1061640/okamoto-machine-tool-works-sales-revenue
+- Industrial Production: Okamoto Polen Application-Center – https://www.industrial-production.de/wirtschaft---unternehmen/okamoto-expandiert-in-polen.htm
+- Industrial Production: neue Europazentrale (1000 m² Ausstellung, 450 m² Büro) – https://www.industrial-production.de/zerspanen/praezise-und-schnell.htm
+- Industrial Production: PSG-CAiQ als Ergänzung der ACC-CAiQ – https://www.industrial-production.de/werkstoffe/flachschleifmaschine--optimiertes-hochpraezisionsschleifen.htm
+- Industrial Production: UGM-360NC/3100NC, OGM-NCIII (EMO 2021) – https://www.industrial-production.de/zerspanen/schleiftechnologie--kompakte-maschinenkonzepte--mit-intelligenter-software.htm
+- Industrial Production: Portfolio Rundtisch, Profil, Portal, Flach, Läppen, Polieren – https://www.industrial-production.de/zerspanen/komplettportfolio-fuer-schleifanwendungen--automatisiert-zum-spiegelglanz.htm
+- Machineseeker: ACC64GX Bj. 2019 für 28 900 € (Gebrauchtangebot 2026) – https://www.machineseeker.ie/okamoto-acc64gx/i-22432257
+- IndustryArena: United Machining Solutions Standorte (Mägerle Fehraltorf, Blohm Jung Hamburg/Göppingen, Studer Steffisburg/Biel) – https://de.industryarena.com/united-machining-solutions/standorte
+- United Grinding: Gründungsjahre, JUNG > 19 000 Maschinen – https://www.grinding.ch/en/united-grinding/
+- ingenieur.de: United Machining Solutions neu gegründet (EMO 2025) – https://www.ingenieur.de/emo-hannover/neu-gegruendete-united-machining-solutions-zeigt-zur-emo-acht-weltneuheiten/
+- Maschinensucher: Chevalier Neumaschinen-Listenpreise eines Händlers (FSG-618M, FSG-1640ADIV, SMART-H1224IV), Ursprung Taiwan, Lieferzeit ca. 6 Monate – https://www.maschinensucher.de/chevalier-fsg-618m/i-19118456 · https://www.maschinensucher.de/chevalier-fsg-1640adiv/i-19117696 · https://www.maschinensucher.de/chevalier-smart-h1224iv/i-19117886
+- VDW: GrindingHub 2026 Abschluss (462 Aussteller, ca. 11 000 Besucher, nächste 16.–19.05.2028) – https://vdw.de/wp-content/uploads/2026/05/pm_abschlusspressemeldung_2026-05-08_DE.pdf
+- VDW: Auftragseingänge Schleiftechnik 2025 ca. −5 % – https://vdw.de/wp-content/uploads/2026/05/pm_GH-Eroeffnung_2026-05-05.pdf
+- Swissmem: > 60 Schweizer Unternehmen auf der GrindingHub 2026 – https://www.swissmem.ch/de/produkte-dienstleistungen/netzwerke/industriesektoren/werkzeugmaschinen/grindinghub-2026-starke-internationale-und-schweizer-beteiligung.html
+- GrindTec/Intec Leipzig 2.–5.03.2027 – https://www.cantonfair.net/event/35921-grindtec · https://www.tradefairdates.com/INTEC-M2994/Leipzig.html
+- GTAI: Schweiz Industriezölle abgeschafft, Einfuhrsteuer 8,1 % – https://www.gtai.de/gtai-de/trade/zoll/zollbericht/schweiz/zoelle-und-einfuhrabgaben-589278
+- SECO: Aufhebung Industriezölle – https://www.seco.admin.ch/de/aufhebung-industriezoelle
+- produktion.de: Industrie BW 2025 rückläufig, Rüstung – https://www.produktion.de/tag/baden württemberg
+- ingenieur.de: Medizintechnik-Cluster Tuttlingen ca. 400 Unternehmen – https://www.ingenieur.de/technik/fachbereiche/medizin/medizintechnik-tuttlingen/
+- Hochschule Pforzheim: Präzisionstechnik Nordschwarzwald – https://trafonetz.de/wp-content/uploads/2025/08/Automobilzulieferer-im-Medizintechnik-Markt.pdf
+- Deloitte: Zulieferer der Schweizer Uhrenindustrie, Diversifizierung Medtech – https://www.deloitte.com/ch/de/Industries/consumer/perspectives/swiss-watch-industry-spotlight-supplier-universe.html
+- **Noch offen:** www.okamoto-europe.de direkt prüfen (Programm Europa, Händler DE/CH), Termine AMB und EMO

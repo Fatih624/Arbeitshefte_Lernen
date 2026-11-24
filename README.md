@@ -26,4 +26,4 @@ CLAUDE.md            Arbeitsanweisung für Claude
 
 | Nr. | Heft | Status |
 |----|------|--------|
-| 01 | Sales Manager Schleifmaschinen (Okamoto) | Teil A fertig (pdf/) |
+| 01 | Sales Manager Schleifmaschinen (Okamoto) | Teil A + B fertig (pdf/) |
