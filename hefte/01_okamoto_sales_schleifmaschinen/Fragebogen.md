@@ -1,51 +1,48 @@
 # Fragebogen – Heft 01: Sales Manager Schleifmaschinen (Okamoto)
 
-> ✅ = schon bekannt · ❓ = offen, bitte beantworten
+> Ausgefüllt am 24.11.2026
 
 ## A. Ziel
 **1. Thema und Ziel**
-- ✅ Vorbereitung auf die Stelle als Sales Manager für Schleifmaschinen bei Okamoto Machine Tool Europe GmbH (Langen)
-- ❓ Woran merkst du am Ende, dass du es kannst? (Beispiel: „Ich kann eine Kundenanfrage aufnehmen, die passende Maschine vorschlagen und das technisch begründen.“)
+- Vorbereitung auf die Stelle als Sales Manager für Schleifmaschinen bei Okamoto Machine Tool Europe GmbH (Langen)
+- Prüfstein: **Ich weiß, was auf mich zukommt**, fachlich und im Alltag: E-Mails, Kundengespräche, typische Herausforderungen, Probleme und ihre Lösungen
 
 **2. Anlass und Termin**
-- ✅ Start am 01.04.2027, also gut 4 Monate Vorbereitung
-- ❓ Willst du bis zum Start fertig sein oder auch die Einarbeitungszeit mit abdecken?
+- Start am 01.04.2027
+- So viel wie möglich abdecken, auch Themen, die erst in der Einarbeitung wichtig werden
 
 **3. Einsatzsituationen**
-- ✅ Vertriebsgebiet: Baden-Württemberg, Bayern, Schweiz
-- ❓ Welche Situationen sind dir am wichtigsten? (Erstbesuch, Bedarfsanalyse, Vorführung, Angebot, Messe, Einwandbehandlung, Zusammenarbeit mit Händlern …)
+- Vertriebsgebiet: Baden-Württemberg, Bayern, Schweiz
+- Alles, was in dieser Position üblich ist: Akquise, Bedarfsanalyse, Vorführung, Angebot, Verhandlung, Messe, Händler, After-Sales, Reporting
 
 ## B. Ausgangslage
 **4. Vorwissen**
-- ✅ Diplom-Ingenieur Maschinenbau (FH), seit 2016 technischer Vertrieb von Diamant- und CBN-Werkzeugen (EHWA), Kontakt zu OEM- und Tier-1-Kunden
-- ❓ Wie gut kennst du Schleifprozesse aus Maschinensicht? (Flach-, Profil-, Rund-, Doppelseitenschleifen; Abrichten; Steuerung)
+- Diplom-Ingenieur Maschinenbau (FH), seit 2016 technischer Vertrieb von Diamant- und CBN-Werkzeugen (EHWA)
+- Schleifprozesse aus Maschinensicht: **wenig Vorwissen, viel Nachholbedarf**. Das Heft fängt bei den Grundlagen an.
 
 **5. Lücken und Sorgen**
-- ❓ Was macht dich unsicher? Zum Beispiel: Maschinentechnik (Achsen, Spindel, Führungen, CNC), Investitionsgüter-Vertrieb statt Verbrauchsmaterial, lange Verkaufszyklen, Wettbewerber, Finanzierung oder ROI-Rechnung
+- Alles: Maschinentechnik, Investitionsgüter-Vertrieb, Markt, Wettbewerb, Rechnen
 
 **6. Quellen**
-- ❓ Was hast du schon? (Okamoto-Kataloge, Unterlagen von Torsten Preisler, Website, Messen wie GrindTec)
+- Claude recherchiert selbst (siehe `QUELLEN.md`)
 
 ## C. Rahmen
 **7. Zeitbudget**
-- ✅ Standard: 1–1,5 h pro Tag
-- ❓ Gilt das auch hier, parallel zum Elektronik-Heft? Lieber am Wochenende mehr?
+- **30–45 Minuten pro Tag** (läuft parallel zum Elektronik-Heft)
 
 **8. Praxis**
-- ❓ Woran kannst du üben? (Maschine ansehen in Langen, Kunden aus deinem Netzwerk, jemand für Rollenspiele, Teile oder Zeichnungen zum Analysieren)
+- Keine Maschine, kein Übungspartner. Praxis heißt hier: Selbstgespräche, laut sprechen, schriftliche Rollenspiele, Fälle durchrechnen.
 
 ## D. Heft
 **9. Umfang und Format**
-- ✅ Ausdruck A4 schwarz-weiß, Lernblätter für die Wand möglich
-- ❓ Umfang: ein Heft mit ca. 60–80 Seiten oder mehrere kleinere Bände (Technik / Markt / Vertrieb)?
+- 60–80 Seiten, A4 schwarz-weiß, dazu Wandblätter
 
 **10. Übungsarten**
-- ✅ Skizzen, Rechnen, Abschreiben, „erst vorhersagen, dann prüfen“; keine Sudoku-Rätsel
-- ❓ Willst du Rollenspiel-Skripte und Gesprächsleitfäden? Fachbegriffe auch auf Englisch?
+- Ja zu Rollenspiel-Skripten und Gesprächsleitfäden
+- Fachbegriffe Deutsch und Englisch
 
 **11. Gewichtung**
-- ❓ Vorschlag: 40 % Schleiftechnik und Maschinen, 20 % Markt, Kunden und Wettbewerb, 30 % Vertriebshandwerk (Investitionsgüter), 10 % Rechnen (Taktzeit, Kosten pro Teil, ROI). Passt das?
+- Nach Claudes Vorschlag (siehe `GLIEDERUNG.md`)
 
 **12. Erfolgskontrolle**
-- ✅ Kurztest pro Kapitel, Lösungen im Anhang
-- ❓ Willst du eine Abschlussprüfung, zum Beispiel einen kompletten Fall von der Anfrage bis zum Angebot?
+- Kurztest pro Kapitel, **Zwischentests** nach jedem Teil, **Abschlussprüfung** als kompletter Fall

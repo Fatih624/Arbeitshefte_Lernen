@@ -26,4 +26,4 @@ CLAUDE.md            Arbeitsanweisung für Claude
 
 | Nr. | Heft | Status |
 |----|------|--------|
-| 01 | Sales Manager Schleifmaschinen (Okamoto) | Fragebogen in Arbeit |
+| 01 | Sales Manager Schleifmaschinen (Okamoto) | Gliederung wartet auf Freigabe |
