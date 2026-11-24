@@ -1,0 +1,57 @@
+@page {
+  size: A4;
+  margin: 18mm 17mm 18mm 20mm;
+  @bottom-center { content: counter(page); font: 9pt "DejaVu Sans"; color: #444; }
+  @top-right { content: string(kapitel); font: 8pt "DejaVu Sans"; color: #666; }
+}
+@page :first { @bottom-center { content: none; } @top-right { content: none; } }
+
+body { font-family: "DejaVu Sans", sans-serif; font-size: 11pt; line-height: 1.45; color: #000; }
+h1 { font-size: 20pt; margin: 0 0 4mm; border-bottom: 2.5pt solid #000; padding-bottom: 2mm;
+     string-set: kapitel content(); page-break-before: always; }
+section.datei:first-child h1 { page-break-before: avoid; }
+h2 { font-size: 14pt; margin: 6mm 0 2mm; page-break-after: avoid; }
+h3 { font-size: 12pt; margin: 4mm 0 1.5mm; page-break-after: avoid; }
+p { margin: 1.5mm 0; }
+ul, ol { margin: 1mm 0 2mm; padding-left: 6mm; }
+li { margin: 0.6mm 0; }
+table { border-collapse: collapse; width: 100%; margin: 2mm 0 3mm; font-size: 10pt; page-break-inside: avoid; }
+th, td { border: 0.6pt solid #000; padding: 1.2mm 2mm; vertical-align: top; text-align: left; }
+th { background: #e6e6e6; }
+img { max-width: 100%; display: block; margin: 2mm auto; }
+code { font-family: "DejaVu Sans Mono"; font-size: 10pt; }
+
+/* Kästen */
+.ziel, .merk, .rechnen, .vorher, .transfer, .test, .begriffe, .einstieg, .sprechen {
+  border: 1pt solid #000; padding: 2.5mm 4mm; margin: 3mm 0; page-break-inside: avoid; }
+.ziel { border-width: 2pt; }
+.merk { border-width: 2pt; border-left-width: 6pt; }
+.einstieg { border-style: dashed; }
+.vorher { border-style: dotted; border-width: 2pt; }
+.sprechen { border-style: double; border-width: 3pt; }
+.begriffe { font-size: 10pt; }
+.begriffe table { margin: 1mm 0; }
+.ziel > p:first-child, .merk > p:first-child, .rechnen > p:first-child, .vorher > p:first-child,
+.transfer > p:first-child, .test > p:first-child, .begriffe > p:first-child, .einstieg > p:first-child,
+.sprechen > p:first-child { margin-top: 0; font-weight: bold; }
+
+/* Schreib- und Zeichenflächen */
+.linien div { border-bottom: 0.5pt solid #777; height: 8.5mm; }
+.linien { margin: 1mm 0 3mm; }
+.feld { border: 0.8pt dashed #555; margin: 2mm 0 3mm; }
+.karo { border: 0.6pt solid #999; margin: 2mm 0 3mm;
+  background-image: linear-gradient(#ccc 0.3pt, transparent 0.3pt), linear-gradient(90deg, #ccc 0.3pt, transparent 0.3pt);
+  background-size: 5mm 5mm; }
+.umbruch { page-break-after: always; }
+
+/* Titelblatt */
+.titel { text-align: center; padding-top: 45mm; }
+.titel .gross { font-size: 30pt; font-weight: bold; line-height: 1.2; }
+.titel .mittel { font-size: 15pt; margin-top: 8mm; }
+.titel .klein { font-size: 11pt; margin-top: 30mm; text-align: left; }
+
+.blank { display: inline-block; width: 32mm; border-bottom: 0.6pt solid #000; height: 4mm; }
+.formel { font-size: 13pt; text-align: center; margin: 2mm 0; font-weight: bold; }
+.klein { font-size: 9pt; }
+.loesung h2 { font-size: 12.5pt; }
+.loesung { font-size: 10pt; }

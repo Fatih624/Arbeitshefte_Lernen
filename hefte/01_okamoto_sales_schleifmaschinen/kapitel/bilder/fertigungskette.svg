@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 170" font-family="DejaVu Sans" font-size="13">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z"/></marker></defs>
+<g fill="#fff" stroke="#000" stroke-width="1.5">
+<rect x="5" y="30" width="115" height="55" rx="6"/><rect x="150" y="30" width="125" height="55" rx="6"/>
+<rect x="305" y="30" width="100" height="55" rx="6"/><rect x="435" y="30" width="115" height="55" rx="6" stroke-width="3.5"/>
+<rect x="580" y="30" width="115" height="55" rx="6"/></g>
+<g stroke="#000" stroke-width="1.5" marker-end="url(#a)"><line x1="120" y1="57" x2="148" y2="57"/><line x1="275" y1="57" x2="303" y2="57"/><line x1="405" y1="57" x2="433" y2="57"/><line x1="550" y1="57" x2="578" y2="57"/></g>
+<g text-anchor="middle"><text x="62" y="54">Rohteil</text><text x="62" y="72">sägen</text>
+<text x="212" y="54">Weich-</text><text x="212" y="72">bearbeitung</text>
+<text x="355" y="62">Härten</text>
+<text x="492" y="62" font-weight="bold" font-size="15">SCHLEIFEN</text>
+<text x="637" y="54">Messen,</text><text x="637" y="72">Montage</text></g>
+<g text-anchor="middle" font-size="11.5" fill="#333">
+<text x="62" y="110">± 1 mm</text><text x="212" y="110">Drehen, Fräsen</text><text x="212" y="126">± 0,05 … 0,1 mm</text>
+<text x="355" y="110">Verzug,</text><text x="355" y="126">Zunder</text>
+<text x="492" y="110">± 0,002 … 0,01 mm</text><text x="492" y="126">Ra 0,1 … 0,8 µm</text>
+<text x="637" y="110">Prüfprotokoll</text></g>
+<text x="350" y="160" text-anchor="middle" font-size="11" fill="#333">Typische Größenordnungen, Werte je nach Teil sehr verschieden</text>
+</svg>

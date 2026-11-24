@@ -25,3 +25,11 @@ Stand 24.11.2026. Wird beim Schreiben der Kapitel ergänzt.
 
 ## Vertriebsrolle
 - Typische Aufgaben im technischen Außendienst (Akquise, Angebote, Verhandlung, Messen, Markt- und Wettbewerbsanalyse): Stellenanzeigen u. a. Maximator, ASYST Flach- und Profilschleifmaschinen, Fakuma-Jobbörse
+
+## Schleiftechnik (Teil A)
+- Saint-Gobain/Norton, Schleiftagung Fellbach 2019: Flach- vs. Tiefschleifen, q_s-Bereiche, Beispielparameter (v_c 35 m/s, a_e 0,02 mm, v_w 30 m/min) – https://www.nortonabrasives.com/sites/mac3-acs-norton/files/Schleiftagung-Fellbach-2019-Bohr-Prozessauslegung-Werkzeuge-Hochleistungsschleifen.pdf
+- Saint-Gobain/Norton, Schleiftagung Fellbach 2020: Kontaktlängen Flach/Außen/Innen (1,1 / 0,4 / 2,2 mm) – https://www.nortonabrasives.com/sites/mac3-acs-norton/files/Schleiftagung-Fellbach-2020-Bohr-Prozessauslegung-innovative-Werkzeuge-zum-Hochleistungsschleifen.pdf
+- voestalpine Böhler: Schleifen im Werkzeugbau (Q'_w, q_s, Schleifrisse, Wärme) – https://voestalpine.com/highperformancemetals/schweiz/de/bohler_schleifen_im_werkzeugbau_de
+- Werkstatt + Betrieb: CBN, Schnittgeschwindigkeiten bis 125 m/s – siehe WB 01/2020 „Leistung bis ans Limit“
+- Machineseeker: ACC-84CA-iQ (7,5 kW, 500–2500 1/min, Klappabrichter mit Kompensation), ACC-64GX (600 × 400 mm, Scheibe 355 × 50 × 127)
+- Allgemeines Lehrbuchwissen: ISO 286 (IT-Werte), Ra/Rz, ISO 525 Scheibenbezeichnung, FEPA-Körnung, α Stahl/Guss
