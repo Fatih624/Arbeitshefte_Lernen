@@ -59,3 +59,11 @@ Stand 24.11.2026. Wird beim Schreiben der Kapitel ergänzt.
 - Hochschule Pforzheim: Präzisionstechnik Nordschwarzwald – https://trafonetz.de/wp-content/uploads/2025/08/Automobilzulieferer-im-Medizintechnik-Markt.pdf
 - Deloitte: Zulieferer der Schweizer Uhrenindustrie, Diversifizierung Medtech – https://www.deloitte.com/ch/de/Industries/consumer/perspectives/swiss-watch-industry-spotlight-supplier-universe.html
 - **Noch offen:** www.okamoto-europe.de direkt prüfen (Programm Europa, Händler DE/CH), Termine AMB und EMO
+
+## Teil C/D – Vertrieb, Wirtschaftlichkeit, Zusammenarbeit
+- Bundesregierung: Wachstumsbooster, degressive AfA bis 30 %, Investitionen 1.7.2025–31.12.2027 – https://www.bundesregierung.de/breg-de/wachstumsbooster-2351752
+- IHK München / IHK Stuttgart: degressive AfA höchstens Dreifaches der linearen AfA, max. 30 % – https://www.ihk-muenchen.de/ratgeber/steuern/investitionsprogramm/ · https://www.ihk.de/stuttgart/fuer-unternehmen/recht-und-steuern/steuerrecht/steuermeldungen/steuerliches-investitionsprogramm-fuer-die-wirtschaft-6613702
+- AfA-Tabelle AV (BMF), Nr. 5.17.1 Schleifmaschinen stationär 15 Jahre – https://www.lexware.de/wissen/buchhaltung-finanzen/abschreibungstabelle/schleifmaschinen/ · https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerverwaltungu-Steuerrecht/Betriebspruefung/AfA_Tabellen/afa_tabellen.html
+- BAuA / DGUV / TÜV Nord: Maschinenverordnung (EU) 2023/1230 gilt ab 20.01.2027, ersetzt 2006/42/EG, keine Übergangsphase – https://www.baua.de/DE/Themen/Arbeitsgestaltung/Maschinen-und-Betriebssicherheit/Maschinen/Ueberarbeitung-Maschinenrichtlinie · https://www.dguv.de/dguv-test;/prod-pruef-zert/konform-prod/maschinen/eu-maschinenverordnung/index.jsp
+- Japanische Geschäftskultur: Hō-Ren-Sō, Nemawashi, Ringi – https://en.wikipedia.org/wiki/Japanese_management_culture · https://japanintercultural.com/?p=2893 · IHK München/GTAI Japan Verhandlungspraxis kompakt – https://www.ihk-muenchen.de/ihk/documents/Anhänge-International/japan-verhandlungsprxis-kompakt.pdf
+- Allgemeines Vertriebswissen: Buying Center, BANT, SPIN-Fragetechnik, Harvard-Verhandlungsprinzipien, Incoterms 2020, Cm/Cmk – Lehrbuchwissen; Okamoto-spezifische Vorgaben (Preise, Zahlungsbedingungen, Abnahme) im Job klären

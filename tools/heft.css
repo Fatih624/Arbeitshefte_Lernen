@@ -55,3 +55,9 @@ code { font-family: "DejaVu Sans Mono"; font-size: 10pt; }
 .klein { font-size: 9pt; }
 .loesung h2 { font-size: 12.5pt; }
 .loesung { font-size: 10pt; }
+.glossar table { font-size: 9pt; page-break-inside: auto; }
+.glossar tr { page-break-inside: avoid; }
+.glossar td, .glossar th { padding: 0.8mm 1.5mm; }
+.titel { page-break-before: always; }
+section.datei:first-child .titel { page-break-before: avoid; }
+blockquote { border-left: 2pt solid #777; margin: 2mm 0 3mm 2mm; padding: 1mm 0 1mm 4mm; font-size: 10pt; page-break-inside: avoid; }

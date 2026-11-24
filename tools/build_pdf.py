@@ -45,7 +45,7 @@ def main() -> None:
     heft = pathlib.Path(args.heft).resolve()
     kap = heft / "kapitel"
     files = sorted(p for p in kap.glob("*.md") if p.name.startswith(args.teil))
-    md = markdown.Markdown(extensions=["tables", "attr_list", "md_in_html", "sane_lists"])
+    md = markdown.Markdown(extensions=["tables", "attr_list", "md_in_html", "sane_lists", "nl2br"])
     parts = []
     for f in files:
         parts.append(f'<section class="datei">{md.convert(shortcodes(f.read_text(encoding="utf-8")))}</section>')
